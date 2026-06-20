@@ -1,0 +1,60 @@
+[
+  {
+    "id": "exp-1",
+    "title": "GSoC Mentor",
+    "company": "JSON Schema",
+    "location": "Remote",
+    "startDate": "2026-06",
+    "endDate": null,
+   "summary": "Mentoring a Google Summer of Code contributor within the JSON Schema ecosystem. Responsibilities include reviewing code contributions, providing technical feedback, recommending best practices for code quality and maintainability, supporting project planning and execution, and helping the contributor navigate both the program and open-source collaboration effectively.",
+    "stack": [
+      "Code Reviews",
+      "Technical Mentorship",
+      "Software Architecture",
+      "Open Source",
+      "Code Quality",
+      "Collaboration"
+    ]
+  },
+  {
+    "id": "exp-2",
+    "title": "Triage Member",
+    "company": "JSON Schema",
+    "location": "Remote",
+    "startDate": "2026-01",
+    "endDate": null,
+    "summary": "Collaborated with the global developers and organization members to contribute to the codebase, review pull requests & issues, and helps maintain the repository with a focus on production-scale reliability and continuous learning.",
+    "stack": ["TypeScript", "JSON Schema", "Next JS", "Tailwind CSS", "CI/CD", "Git", "Github"]
+  },
+  {
+    "id": "exp-3",
+    "title": "Open Source Contributor",
+    "company": "Google Summner Of Code Program",
+    "location": "Remote",
+    "startDate": "2025-05",
+    "endDate": "2025-08",
+    "summary": "Visualizing JSON Schema as an interactive graphical struture to make complex schemas easier to understand for developers. Built as an open-source tool during the GSoC, focusing on clarity, usability, and real-world schema support.",
+    "stack": ["TypeScript", "JSON Schema", "HyperJump", "Tailwind CSS", "React Flow", "Monaco Editor"]
+  },
+  {
+    "id": "exp-4",
+    "title": "Artificial Intelligence Intern",
+    "company": "Shell India Private Limited",
+    "location": "Remote",
+    "startDate": "2025-03",
+    "endDate": "2025-04",
+    "summary": "Collaborated with the global developers and organization members to contribute to the codebase, review pull requests & issues, and helps maintain the repository with a focus on production-scale reliability and continuous learning.",
+    "stack": ["Python", "Artificial Intelligence", "Machine Learning", "NLP", "Scikit-Learn"]
+  },
+  {
+    "id": "exp-5",
+    "title": "Full Stack Developer",
+    "company": "Edunet Foundation - EYGDS",
+    "location": "Remote",
+    "startDate": "2025-02",
+    "endDate": "2025-03",
+    "summary": "Completed a virtual internship, receiving mentorship and training from industry experts while contributing to a real world project under the team guidance.",
+    "stack": ["React", "JavaScript", "Node JS", "MySQL", "BootStrap"]
+  }
+
+]
