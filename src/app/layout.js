@@ -23,7 +23,7 @@ const inter = Inter({
 });
 
 export const metadata = {
-  title: "Alex Rivera — Software Developer",
+  title: "Jagpreet Singh — Software Developer",
   description:
     "Full-stack developer who likes clean APIs, faster page loads, and the occasional unnecessary animation.",
 };

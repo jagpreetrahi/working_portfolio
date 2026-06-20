@@ -1,4 +1,4 @@
-# Alex Rivera — Portfolio (Next.js)
+# Jagpreet Singh — Portfolio (Next.js)
 
 This is the Next.js (App Router) conversion of the original single-file HTML portfolio.
 Same exact design, copy, and interactions — split into components and wired up to React state
