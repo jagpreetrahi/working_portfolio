@@ -1,4 +1,4 @@
-import Terminal from "./Terminal";
+import HeroVisual from "./HeroVisual";
 
 export default function Hero() {
   return (
@@ -27,7 +27,7 @@ export default function Hero() {
         </div>
       </div>
 
-      <Terminal />
+      <HeroVisual/>
     </section>
   );
 }

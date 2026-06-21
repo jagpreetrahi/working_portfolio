@@ -60,19 +60,7 @@ export const stickyNotes = [
   },
 ];
 
-export const terminalJokes = [
-  "Why do programmers prefer dark mode? Because light attracts bugs.",
-  "There are 10 types of people: those who understand binary, and those who don't.",
-  "I'd tell you a UDP joke, but you might not get it.",
-];
 
-export const terminalResponses = {
-  help: "available: help · skills · projects · joke · coffee · clear",
-  skills:
-    "JS/TS, React, Node, Python, Postgres, Docker — scroll down, there's a whole interactive section for this ↓",
-  projects: "Routely, queue-lite, LateNightEats, Bindery — all below in the work section ↓",
-  coffee: "☕ brewing... third cup today. send help (or beans).",
-};
 
 export const skills = [
   {
